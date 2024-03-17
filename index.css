@@ -1,0 +1,42 @@
+.main{
+    text-align: center;
+}
+.game_heading{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+.images,.scores{
+    display:flex;
+    flex: row;
+    justify-content: center;
+}
+.img{
+    height:20vh;
+    margin:20px;
+}
+.img:hover{
+    opacity:0.3;
+}
+.my_score,.com_score{
+    margin:20px;
+}
+#Reset{
+    background-color:blue;
+    padding:10px;
+    font-size: 20px;
+    border-radius: 10px;
+    color:white;
+    
+}
+#message{ 
+    
+    font-weight: bold;
+    font-size: 25px;
+    margin:40px;
+  
+}
+#text{
+    padding:10px;
+    border-radius: 10px;
+}
