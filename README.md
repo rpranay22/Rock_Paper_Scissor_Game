@@ -11,7 +11,7 @@ The player chooses either Rock, Paper, or Scissors. The bot also makes a choice.
 - If both the player and the bot make the same choice, it's a draw.
 
 ## Development
-The game is developed using JavaScript. The logic of the game is contained in `RPS.py`. The bot's choice is generated using the random library in Python.
+The game is developed using JavaScript. The logic of the game is contained in `index.js`. The bot's choice is generated using the random library in JavaScript.
 
 ## Future Improvements
 Future improvements might include a graphical user interface, more complex bot behavior, and multiplayer support.
